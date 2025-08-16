@@ -1,0 +1,154 @@
+[{
+        "name": "Mario's Pizzeria",
+        "cuisine": ["Italian", "Pizza"],
+        "rating": 4.5,
+        "menuItems": [
+            { "name": "Margherita Pizza", "price": 299, "category": "Pizza" },
+            { "name": "Pepperoni Pizza", "price": 349, "category": "Pizza" },
+            { "name": "Cheese Garlic Bread", "price": 149, "category": "Sides" },
+            { "name": "Veggie Supreme", "price": 319, "category": "Pizza" },
+            { "name": "Pasta Alfredo", "price": 269, "category": "Pasta" },
+            { "name": "Pasta Arrabiata", "price": 259, "category": "Pasta" },
+            { "name": "Tomato Soup", "price": 119, "category": "Soup" },
+            { "name": "Cold Drink", "price": 59, "category": "Beverage" },
+            { "name": "Choco Lava Cake", "price": 129, "category": "Dessert" },
+            { "name": "Tiramisu", "price": 189, "category": "Dessert" }
+        ]
+    },
+    {
+        "name": "Spice Paradise",
+        "cuisine": ["Indian", "Biryani"],
+        "rating": 4.3,
+        "menuItems": [
+            { "name": "Chicken Biryani", "price": 299, "category": "Biryani" },
+            { "name": "Mutton Biryani", "price": 399, "category": "Biryani" },
+            { "name": "Veg Biryani", "price": 249, "category": "Biryani" },
+            { "name": "Paneer Butter Masala", "price": 279, "category": "Main Course" },
+            { "name": "Butter Naan", "price": 49, "category": "Bread" },
+            { "name": "Chicken Korma", "price": 289, "category": "Main Course" },
+            { "name": "Tandoori Roti", "price": 29, "category": "Bread" },
+            { "name": "Raita", "price": 69, "category": "Sides" },
+            { "name": "Gulab Jamun", "price": 89, "category": "Dessert" },
+            { "name": "Lassi", "price": 79, "category": "Beverage" }
+        ]
+    },
+    {
+        "name": "Burger Junction",
+        "cuisine": ["American", "Burgers"],
+        "rating": 4.6,
+        "menuItems": [
+            { "name": "Classic Chicken Burger", "price": 199, "category": "Burger" },
+            { "name": "Veggie Burger", "price": 149, "category": "Burger" },
+            { "name": "Double Cheese Burger", "price": 249, "category": "Burger" },
+            { "name": "French Fries", "price": 99, "category": "Sides" },
+            { "name": "Onion Rings", "price": 109, "category": "Sides" },
+            { "name": "Chicken Nuggets", "price": 149, "category": "Sides" },
+            { "name": "Coke", "price": 59, "category": "Beverage" },
+            { "name": "Chocolate Shake", "price": 119, "category": "Beverage" },
+            { "name": "Ice Cream Sandwich", "price": 99, "category": "Dessert" },
+            { "name": "Brownie", "price": 139, "category": "Dessert" }
+        ]
+    },
+    {
+        "name": "Sweet Dreams Bakery",
+        "cuisine": ["Desserts", "Bakery"],
+        "rating": 4.7,
+        "menuItems": [
+            { "name": "Chocolate Muffin", "price": 89, "category": "Bakery" },
+            { "name": "Red Velvet Cupcake", "price": 109, "category": "Bakery" },
+            { "name": "Vanilla Pastry", "price": 99, "category": "Pastry" },
+            { "name": "Chocolate Truffle Cake", "price": 499, "category": "Cake" },
+            { "name": "Cookies Box", "price": 199, "category": "Bakery" },
+            { "name": "Donuts (Pack of 3)", "price": 159, "category": "Bakery" },
+            { "name": "Fruit Tart", "price": 129, "category": "Dessert" },
+            { "name": "Cheesecake Slice", "price": 149, "category": "Dessert" },
+            { "name": "Chocolate Shake", "price": 129, "category": "Beverage" },
+            { "name": "Strawberry Milkshake", "price": 129, "category": "Beverage" }
+        ]
+    },
+    {
+        "name": "Dragon Palace",
+        "cuisine": ["Chinese", "Asian"],
+        "rating": 4.4,
+        "menuItems": [
+            { "name": "Veg Hakka Noodles", "price": 229, "category": "Noodles" },
+            { "name": "Chicken Manchurian", "price": 269, "category": "Main Course" },
+            { "name": "Spring Rolls", "price": 149, "category": "Starters" },
+            { "name": "Fried Rice", "price": 199, "category": "Rice" },
+            { "name": "Sweet & Sour Chicken", "price": 289, "category": "Main Course" },
+            { "name": "Hot & Sour Soup", "price": 109, "category": "Soup" },
+            { "name": "Chili Paneer", "price": 259, "category": "Main Course" },
+            { "name": "Schezwan Fried Rice", "price": 229, "category": "Rice" },
+            { "name": "Mango Juice", "price": 89, "category": "Beverage" },
+            { "name": "Ice Cream", "price": 99, "category": "Dessert" }
+        ]
+    },
+    {
+        "name": "Café Delight",
+        "cuisine": ["Coffee", "Snacks"],
+        "rating": 4.2,
+        "menuItems": [
+            { "name": "Cappuccino", "price": 129, "category": "Beverage" },
+            { "name": "Espresso", "price": 99, "category": "Beverage" },
+            { "name": "Latte", "price": 139, "category": "Beverage" },
+            { "name": "Cold Coffee", "price": 149, "category": "Beverage" },
+            { "name": "Garlic Bread", "price": 89, "category": "Snacks" },
+            { "name": "French Fries", "price": 99, "category": "Snacks" },
+            { "name": "Club Sandwich", "price": 149, "category": "Snacks" },
+            { "name": "Cheese Croissant", "price": 119, "category": "Snacks" },
+            { "name": "Chocolate Muffin", "price": 89, "category": "Dessert" },
+            { "name": "Brownie", "price": 129, "category": "Dessert" }
+        ]
+    },
+    {
+        "name": "Chennai Tiffin Center",
+        "cuisine": ["South Indian", "Breakfast"],
+        "rating": 4.8,
+        "menuItems": [
+            { "name": "Idli (2 pcs)", "price": 40, "category": "Breakfast" },
+            { "name": "Medu Vada", "price": 50, "category": "Breakfast" },
+            { "name": "Dosa", "price": 70, "category": "Breakfast" },
+            { "name": "Masala Dosa", "price": 90, "category": "Breakfast" },
+            { "name": "Upma", "price": 60, "category": "Breakfast" },
+            { "name": "Pongal", "price": 80, "category": "Breakfast" },
+            { "name": "Filter Coffee", "price": 30, "category": "Beverage" },
+            { "name": "Lassi", "price": 50, "category": "Beverage" },
+            { "name": "Kesari", "price": 45, "category": "Dessert" },
+            { "name": "Lemon Rice", "price": 70, "category": "Main Course" }
+        ]
+    },
+    {
+        "name": "Madras Meals",
+        "cuisine": ["South Indian", "Thali"],
+        "rating": 4.6,
+        "menuItems": [
+            { "name": "Mini Thali", "price": 199, "category": "Thali" },
+            { "name": "Full Meals", "price": 249, "category": "Thali" },
+            { "name": "Curd Rice", "price": 70, "category": "Main Course" },
+            { "name": "Sambar Rice", "price": 80, "category": "Main Course" },
+            { "name": "Rasam Rice", "price": 60, "category": "Main Course" },
+            { "name": "Papad", "price": 20, "category": "Sides" },
+            { "name": "Pickle", "price": 15, "category": "Sides" },
+            { "name": "Buttermilk", "price": 30, "category": "Beverage" },
+            { "name": "Payasam", "price": 60, "category": "Dessert" },
+            { "name": "Sweet Pongal", "price": 70, "category": "Dessert" }
+        ]
+    },
+    {
+        "name": "Chettinad Spice Kitchen",
+        "cuisine": ["Chettinad", "South Indian"],
+        "rating": 4.7,
+        "menuItems": [
+            { "name": "Chettinad Chicken Curry", "price": 299, "category": "Main Course" },
+            { "name": "Karaikudi Fish Fry", "price": 349, "category": "Main Course" },
+            { "name": "Egg Podimas", "price": 179, "category": "Main Course" },
+            { "name": "Mutton Chukka", "price": 369, "category": "Main Course" },
+            { "name": "Pepper Chicken", "price": 299, "category": "Main Course" },
+            { "name": "Parotta", "price": 40, "category": "Bread" },
+            { "name": "Chicken Biryani", "price": 319, "category": "Biryani" },
+            { "name": "Onion Raita", "price": 40, "category": "Sides" },
+            { "name": "Lemon Juice", "price": 30, "category": "Beverage" },
+            { "name": "Kesari", "price": 50, "category": "Dessert" }
+        ]
+    }
+]
